@@ -36,17 +36,17 @@ class _HomeScreenState extends State<HomeScreen>{
     Exam(
         id: "1",
         name: "MIS Mobile information systems",
-        date:  DateTime.parse("2022-12-29 15:00:00"),
+        date:  DateTime.parse("2022-06-29 15:00:00"),
         location: Location(latitude: 42.0043165, longitude: 21.4096452)),
     Exam(
         id: "2",
-        name: "HCI Design of human-computer interaction",
-        date: DateTime.parse("2023-03-20 15:00:00"),
+        name: "Object oriented programming",
+        date: DateTime.parse("2023-06-20 15:00:00"),
         location: Location(latitude: 42.004400, longitude: 21.408918)),
     Exam(
         id: "4",
-        name: "DS Data Science",
-        date: DateTime.parse("2023-03-03 13:30:00"),
+        name: "Data base",
+        date: DateTime.parse("2023-06-03 13:30:00"),
         location: Location(latitude: 42.004906, longitude: 21.409890)),
   ];
 
